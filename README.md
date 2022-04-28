@@ -1,2 +1,1 @@
-# DentSky-Template
-DentSky-Template
+# Densky
